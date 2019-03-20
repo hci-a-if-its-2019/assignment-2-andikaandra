@@ -39,14 +39,14 @@ Based on contextual inquiry, i think the developer must position himself as a us
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-1. Operating System : Windows or Linux
-2. Physical Input : Mouse and Keyboard
-3. Screen Resolution : 1024 x 768 or higher
-4. Screen Size : 15.6 inch
-5. Screen Color : RGB
-6. Computer with minimum requirements:
-```
+- Operating System : Windows or Linux
+- Physical Input : Mouse and Keyboard
+- Screen Resolution : 1024 x 768 or higher
+- Screen Size : 15.6 inch
+- Screen Color : RGB
+- Computer with minimum requirements:
+   - [Intel core 2 duo](https://en.wikipedia.org/wiki/Intel_Core#Core_2_Duo)
+   - 2 GB Memory
 ### 2. Users
 ```
 1. Familiar using computer and web browser.
