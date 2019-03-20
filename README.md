@@ -7,46 +7,50 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
+##### 1.1 Original
+![original](Assets/original.jpg)
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+##### 1.2 Solution 1
+![solution 1](Assets/solution1.jpg)
+
+##### 1.3 Solution 2
+![solution 2](Assets/solution2.jpg)
+
+##### 1.4 Solution 3
+![solution 3](Assets/solution3.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+##### 2.1 Original
+User receives **too much information** at once (Start from 2016 - 2019 ), no border line in table, and also no divider line between two information.
+##### 2.2 Solution 1
+There is a sidebar that holds several selection buttons for the year option, one selection only show you information for one year (eg: if you click button 2019, so the page only show you scholarship in only 2019), and on the top of sidebar the is a hidden button to show and hide your sidebar. And there is a border line for the table also the divider line between two information.
+
+##### 2.3 Solution 2
+There is a collapsable selection button for the year option, the method is if you click on 2019, so the other years(2018, 2017, 2016) will be collapsed and 2019 will be expanded. And there is a border line for the table also the divider line between two information.
+
+##### 2.4 Solution 3
+There is a navigation on the top of information sheet that contains selection button for the years option. And there is a border line for the table also the divider line between two information.
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+Among the three solution choices, i choose the **first solution**, because it can show or hide the side bar, and make the screen cleaner and efficient, and the other reason is wherever the scroll position is, you can change the information just by show the sidebar and change your choice of year. :smile:
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+Based on contextual inquiry, i think the developer must position himself as a user, and if he feels it is difficult to access and take too much time to operate then that includes a bad design.
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+1. Operating System : Windows or Linux
+2. Physical Input : Mouse and Keyboard
+3. Screen Resolution : 1024 x 768 or higher
+4. Screen Size : 15.6 inch
+5. Screen Color : RGB
+6. Computer with minimum requirements:
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+1. Familiar using computer and web browser.
+2. Expected as ITS student.
 ```
 
 ## Part C: Prototypes
