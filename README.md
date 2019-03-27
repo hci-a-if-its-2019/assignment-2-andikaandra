@@ -1,6 +1,27 @@
 # Sketching and Prototyping
 Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
 
+### Outlines
+1. [Part A Sketches](#part-a-sketches)
+   1. [Scan / Photo od Sketcher](#1-scanphoto-of-sketches)
+      1. [Original](#11-original)
+      1. [Solution 1](#12-solution-1)
+      1. [Solution 2](#13-solution-2)
+      1. [Solution 3](#14-solution-3)
+   1. [Version Differences](#2-version-differences)
+      1. [Original](#21-original)
+      1. [Solution 1](#22-solution-1)
+      1. [Solution 2](#23-solution-2)
+      1. [Solution 3](#24-solution-3)
+   1. [Selected Sketch](#3-selected-sketch)
+   1. [Design Rationale](#4-design-rationale)
+1. [Part B Assumptions](#part-b-assumptions)
+   1. [Hardware](#1-hardware)
+   1. [Users](#2-users)
+1. [Part C Prototypes](#part-c-prototypes)
+   1. [Low Fidelity Prototype](#low-fidelity-prototype)
+   1. [High Fidelity Prototype](#high-fidelity-prototype)
+
 ## Part A: Sketches
 Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
 
@@ -54,4 +75,8 @@ Based on contextual inquiry, i think the developer must position himself as a us
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+#### Low Fidelity Prototype
+-> https://invis.io/HDR85TUU9WY
+
+#### High Fidelity Prototype
+-> https://projects.invisionapp.com/freehand/document/B7iSnx2Qu
