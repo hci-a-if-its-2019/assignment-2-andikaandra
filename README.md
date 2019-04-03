@@ -76,7 +76,7 @@ Based on contextual inquiry, i think the developer must position himself as a us
 
 ## Part C: Prototypes
 #### Low Fidelity Prototype
--> https://invis.io/HDR85TUU9WY
+-> https://projects.invisionapp.com/freehand/document/B7iSnx2Qu
 
 #### High Fidelity Prototype
--> https://projects.invisionapp.com/freehand/document/B7iSnx2Qu
+-> https://invis.io/HDR85TUU9WY (Updated version)
